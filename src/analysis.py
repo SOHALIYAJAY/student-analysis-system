@@ -124,6 +124,7 @@ def run_menu():
                 df.replace(-1, np.nan, inplace=True)
                 show_graphs(df)  
             case 5:
+                
                 df = pd.read_csv('student_information.csv') 
                 df.replace(-1, np.nan, inplace=True)
                 df.to_csv('student_data_cleaned.csv', index=False)
