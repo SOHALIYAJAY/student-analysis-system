@@ -1,0 +1,7 @@
+---------PERFORMANCE SUMMARY REPORT--------- 
+Total Students: 14
+Class Average: 56.19
+Top Student: Harsh
+Total Pass Students: 11
+Total Fail Students: 3
+
