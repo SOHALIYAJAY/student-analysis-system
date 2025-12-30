@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project generated files
+student_information.csv
+student_data_cleaned.csv
+performance_summary.txt
+performance_summary.pdf
+
+# Jupyter
+.ipynb_checkpoints/
